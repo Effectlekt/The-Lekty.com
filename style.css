@@ -1,0 +1,90 @@
+header{
+    height: 200px;
+    color:rgb(221, 217, 0);
+    text-align: center;
+    background-image: url("https://cs13.pikabu.ru/post_img/2023/01/22/2/1674350240141195392.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: 'Segoe Script';
+}
+main{
+    height: 1000px;
+    color:rgb(131, 0, 192);
+    background-image: url("https://getwallpapers.com/wallpaper/full/9/3/6/297757.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    text-align: center;
+    font-family: 'Segoe Script';
+    display: flex;
+}
+footer{
+    height: 300px;
+    background-color: rgb(8, 12, 65);
+    color:snow;
+    padding: 20px;
+    text-align: center;
+}
+body{
+    margin: 0px;
+}
+h1{
+    margin: 0px;
+    font-size: 100px;
+}
+h2{
+    margin: 0px;
+}
+h3{
+    margin: 0px;
+}
+h4{
+    margin: 0px;
+}
+h5{
+    margin: 0px;
+}
+h6{
+    margin: 0px;
+}
+.vidio{
+    padding-top: 25px;
+    padding-left: 10px;
+}
+.Treiler{
+    padding-top: 75px;
+    font-size: 50px;
+    font-family: 'Segoe Script';
+}
+.overview{
+    font-family: 'Consolas';
+}
+.but{
+    size: 200px 100px;
+}
+.links img{
+    padding-left: 10px;
+    width: 100px;
+}
+.links{
+    padding-top: 20px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.left{
+    width: 50%;
+    text-align: left;
+
+}
+.right{
+    padding-top: 100px;
+    width: 50%;
+    text-align: right;
+
+}
+.klop{
+    font-size: 50px;
+}
